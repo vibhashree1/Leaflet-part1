@@ -1,6 +1,6 @@
 # Visualizing-Data-with-Leaflet
 
-https://bigbluey.github.io/Visualizing-Data-with-Leaflet/
+https://vibhashree1.github.io/leafletmain/
 
 ## Background
 
